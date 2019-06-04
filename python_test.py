@@ -52,6 +52,17 @@ python的函数参数传递
 # fun(a)
 # print(a)
 
+# try:
+#     pass
+# except expression as identifier:
+#     pass
+# else:
+#     pass
+
+
+def foo(x):
+    
+
 
 
 
