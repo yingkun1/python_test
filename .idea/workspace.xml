@@ -11,19 +11,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019年6月5日/14.新式类和经典类.py">
+        <entry file="file://$PROJECT_DIR$/2019年6月5日/19.协程.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="73">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019年6月5日/15.__new__和__init__的区别.py">
+        <entry file="file://$PROJECT_DIR$/2019年6月5日/20.闭包.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="199">
+              <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -59,6 +59,12 @@
         <option value="$PROJECT_DIR$/2019年6月5日/13.python中重载.py" />
         <option value="$PROJECT_DIR$/2019年6月5日/14.新式类和经典类.py" />
         <option value="$PROJECT_DIR$/2019年6月5日/15.__new__和__init__的区别.py" />
+        <option value="$PROJECT_DIR$/2019年6月5日/mysingleton.py" />
+        <option value="$PROJECT_DIR$/2019年6月5日/16.单例模式.py" />
+        <option value="$PROJECT_DIR$/2019年6月5日/17.python中的作用域.py" />
+        <option value="$PROJECT_DIR$/2019年6月5日/18.GIL线程全局锁.py" />
+        <option value="$PROJECT_DIR$/2019年6月5日/19.协程.py" />
+        <option value="$PROJECT_DIR$/2019年6月5日/20.闭包.py" />
       </list>
     </option>
   </component>
@@ -86,6 +92,11 @@
               <item name="python笔试" type="462c0819:PsiDirectoryNode" />
               <item name="2019年6月5日" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python笔试" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -101,6 +112,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\H\Desktop\python\python笔试\test" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -113,52 +129,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14.新式类和经典类">
-    <configuration name="10.argsandkwargs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python笔试" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019年6月4日" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月4日/10.argsandkwargs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11.面向切面编程AOP和装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python笔试" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019年6月4日" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月4日/11.面向切面编程AOP和装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12.鸭子类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.20.闭包">
+    <configuration name="16.单例模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python笔试" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/12.鸭子类型.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/16.单例模式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14.新式类和经典类" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17.python中的作用域" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python笔试" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +165,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/14.新式类和经典类.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/17.python中的作用域.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.迭代器和生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="18.GIL线程全局锁" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python笔试" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +182,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019年6月4日" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019年6月5日" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\H\Desktop\python\python笔试\2019年6月4日\9.迭代器和生成器和装饰器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/18.GIL线程全局锁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="19.协程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python笔试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019年6月5日" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/19.协程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20.闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python笔试" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019年6月5日" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019年6月5日/20.闭包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14.新式类和经典类" />
-        <item itemvalue="Python.12.鸭子类型" />
-        <item itemvalue="Python.11.面向切面编程AOP和装饰器" />
-        <item itemvalue="Python.10.argsandkwargs" />
-        <item itemvalue="Python.9.迭代器和生成器" />
+        <item itemvalue="Python.20.闭包" />
+        <item itemvalue="Python.19.协程" />
+        <item itemvalue="Python.18.GIL线程全局锁" />
+        <item itemvalue="Python.17.python中的作用域" />
+        <item itemvalue="Python.16.单例模式" />
       </list>
     </recent_temporary>
   </component>
@@ -245,24 +261,24 @@
       <option name="presentableId" value="Default" />
       <updated>1559633376401</updated>
       <workItem from="1559633408253" duration="12086000" />
-      <workItem from="1559707043757" duration="3378000" />
+      <workItem from="1559707043757" duration="12993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15464000" />
+    <option name="totallyTimeSpent" value="25079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37258065" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29354838" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,17 +299,22 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$20_.coverage" NAME="20.闭包 Coverage Results" MODIFIED="1559728334261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
+    <SUITE FILE_PATH="coverage/python$14_.coverage" NAME="14.新式类和经典类 Coverage Results" MODIFIED="1559710350900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="类变量和实例变量 Coverage Results" MODIFIED="1559635423142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
+    <SUITE FILE_PATH="coverage/python$18_GIL.coverage" NAME="18.GIL线程全局锁 Coverage Results" MODIFIED="1559725322464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
+    <SUITE FILE_PATH="coverage/python$9_.coverage" NAME="9.迭代器和生成器 Coverage Results" MODIFIED="1559642318472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
+    <SUITE FILE_PATH="coverage/python$16_.coverage" NAME="16.单例模式 Coverage Results" MODIFIED="1559722443612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
+    <SUITE FILE_PATH="coverage/python$11_AOP.coverage" NAME="11.面向切面编程AOP和装饰器 Coverage Results" MODIFIED="1559647700759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
+    <SUITE FILE_PATH="coverage/python$5_python.coverage" NAME="5.python自省 Coverage Results" MODIFIED="1559635599050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
+    <SUITE FILE_PATH="coverage/python$19_.coverage" NAME="19.协程 Coverage Results" MODIFIED="1559727487888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
     <SUITE FILE_PATH="coverage/python$10_argsandkwargs.coverage" NAME="10.argsandkwargs Coverage Results" MODIFIED="1559647067850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
     <SUITE FILE_PATH="coverage/python$8__format.coverage" NAME="8.字符串格式化%和format Coverage Results" MODIFIED="1559640481937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
     <SUITE FILE_PATH="coverage/python$12_.coverage" NAME="12.鸭子类型 Coverage Results" MODIFIED="1559707859144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
-    <SUITE FILE_PATH="coverage/python$14_.coverage" NAME="14.新式类和经典类 Coverage Results" MODIFIED="1559710350900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
     <SUITE FILE_PATH="coverage/python$_staticmethod_classmethod.coverage" NAME="@staticmethod和@classmethod Coverage Results" MODIFIED="1559635181519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="类变量和实例变量 Coverage Results" MODIFIED="1559635423142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
-    <SUITE FILE_PATH="coverage/python$9_.coverage" NAME="9.迭代器和生成器 Coverage Results" MODIFIED="1559642318472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
     <SUITE FILE_PATH="coverage/python$7_python.coverage" NAME="7.python中单下划线和双下划线 Coverage Results" MODIFIED="1559638771917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
     <SUITE FILE_PATH="coverage/python$6_.coverage" NAME="6.推导式 Coverage Results" MODIFIED="1559637316990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
-    <SUITE FILE_PATH="coverage/python$11_AOP.coverage" NAME="11.面向切面编程AOP和装饰器 Coverage Results" MODIFIED="1559647700759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
-    <SUITE FILE_PATH="coverage/python$5_python.coverage" NAME="5.python自省 Coverage Results" MODIFIED="1559635599050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月4日" />
+    <SUITE FILE_PATH="coverage/python$17_python.coverage" NAME="17.python中的作用域 Coverage Results" MODIFIED="1559725144664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月5日" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/新建文本文档.txt">
@@ -400,6 +421,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月5日/16.单例模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/mysingleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月5日/17.python中的作用域.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月5日/18.GIL线程全局锁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding>
+            <element signature="e#464#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月5日/19.协程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月5日/20.闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
         </state>
       </provider>
     </entry>
