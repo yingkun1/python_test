@@ -1,0 +1,2 @@
+参看博客"http://blog.codinglabs.org/articles/theory-of-mysql-index.html"
+mysql中MyISAM和InnoDB两个存储引擎都是使用B+Tree作为索引结构

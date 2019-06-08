@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba7be16a-5031-472c-86a9-c4cbec337821" name="Default Changelist" comment="" />
+    <list default="true" id="ba7be16a-5031-472c-86a9-c4cbec337821" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +13,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019年6月7日/29.super init.py">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/数据库：1.事务">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="126">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019年6月7日/30.range和xrange.py">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/数据库：2。数据库索引">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="21">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：9.边沿触发和水平触发">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="46" selection-start-column="46" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -80,10 +91,21 @@
         <option value="$PROJECT_DIR$/2019年6月7日/28.python2和python3的区别.py" />
         <option value="$PROJECT_DIR$/2019年6月7日/29.super init.py" />
         <option value="$PROJECT_DIR$/2019年6月7日/30.range和xrange.py" />
+        <option value="$PROJECT_DIR$/2019年6月7日/1.操作系统：select,poll和epoll" />
+        <option value="$PROJECT_DIR$/2019年6月7日/2.操作系统：调度算法" />
+        <option value="$PROJECT_DIR$/2019年6月7日/3.操作系统：死锁" />
+        <option value="$PROJECT_DIR$/2019年6月8日/4.操作系统：程序编译与链接" />
+        <option value="$PROJECT_DIR$/2019年6月8日/5.操作系统：静态链接和动态链接" />
+        <option value="$PROJECT_DIR$/2019年6月8日/6.操作系统：虚拟内存技术" />
+        <option value="$PROJECT_DIR$/2019年6月8日/7.操作系统：分页和分段" />
+        <option value="$PROJECT_DIR$/2019年6月8日/8.操作系统：页面置换算法" />
+        <option value="$PROJECT_DIR$/2019年6月8日/操作系统：9.边沿触发和水平触发" />
+        <option value="$PROJECT_DIR$/2019年6月8日/数据库：1.事务" />
+        <option value="$PROJECT_DIR$/2019年6月8日/数据库：2。数据库索引" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="486" />
     <option name="y" value="27" />
     <option name="width" value="795" />
@@ -105,6 +127,11 @@
               <item name="python笔试" type="b2602c69:ProjectViewProjectNode" />
               <item name="python笔试" type="462c0819:PsiDirectoryNode" />
               <item name="2019年6月7日" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python笔试" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python笔试" type="462c0819:PsiDirectoryNode" />
+              <item name="2019年6月8日" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,18 +299,19 @@
       <updated>1559633376401</updated>
       <workItem from="1559633408253" duration="12086000" />
       <workItem from="1559707043757" duration="17086000" />
-      <workItem from="1559892425485" duration="7015000" />
+      <workItem from="1559892425485" duration="9755000" />
+      <workItem from="1559958246462" duration="5078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36187000" />
+    <option name="totallyTimeSpent" value="44005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37670198" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2859304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -548,6 +576,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月7日/30.range和xrange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2019年6月7日/29.super init.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -555,10 +590,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月7日/30.range和xrange.py">
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：8.页面置换算法">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：7.分页和分段">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：5.静态链接和动态链接">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月7日/操作系统：2.调度算法">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月7日/操作系统：3.死锁">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：6.虚拟内存技术">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月7日/操作系统：1.select,poll和epoll">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：4.程序编译与链接">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/操作系统：9.边沿触发和水平触发">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/数据库：1.事务">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/数据库：2。数据库索引">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
