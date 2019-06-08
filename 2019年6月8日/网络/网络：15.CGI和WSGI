@@ -1,0 +1,6 @@
+CGI,SWGI区别
+
+cgi通过环境变量，输入输出流完成web server与处理逻辑的http协议的交互，由于是基于流方式，
+所以各种语言都可以写cgi程序。wsgi是将web server参数python化，封装为request对象传递给
+apllication命名的func对象并接受其传出的response参数，由于其处理了参数封装和结果解析，
+才有python世界web框架的泛滥，在python下，写web框架就像喝水一样简单:)

@@ -13,42 +13,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络：5.POST和GET的区别">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：10.CSRF和XSS">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：11.幂等">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：12.RESTFul架构(SOAP,RPC)">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="57" selection-start-column="57" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：13.SOAP">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：14.RPC">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：9.HTTP和HTTPS">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络：6.Cookie和Session">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络：7.apache和nginx的区别">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络：8.网站用户密码保存">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：15.CGI和WSGI">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：16.中间人攻击">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络：9.HTTP和HTTPS">
+        <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：17.C10问题">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+            <state>
+              <caret column="46" selection-start-column="46" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -69,14 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2019年6月4日/9.迭代器和生成器.py" />
-        <option value="$PROJECT_DIR$/2019年6月4日/9.迭代器和生成器和装饰器.py" />
-        <option value="$PROJECT_DIR$/2019年6月4日/10.argsandkwargs.py" />
-        <option value="$PROJECT_DIR$/2019年6月4日/11.面向切面编程AOP和装饰器.py" />
-        <option value="$PROJECT_DIR$/2019年6月5日/12.鸭子类型.py" />
-        <option value="$PROJECT_DIR$/2019年6月5日/13.python中重载.py" />
-        <option value="$PROJECT_DIR$/2019年6月5日/14.新式类和经典类.py" />
-        <option value="$PROJECT_DIR$/2019年6月5日/15.__new__和__init__的区别.py" />
         <option value="$PROJECT_DIR$/2019年6月5日/mysingleton.py" />
         <option value="$PROJECT_DIR$/2019年6月5日/16.单例模式.py" />
         <option value="$PROJECT_DIR$/2019年6月5日/17.python中的作用域.py" />
@@ -120,6 +148,14 @@
         <option value="$PROJECT_DIR$/2019年6月8日/网略：7.apache和nginx的区别" />
         <option value="$PROJECT_DIR$/2019年6月8日/网络：8.网站用户密码保存" />
         <option value="$PROJECT_DIR$/2019年6月8日/网络：9.HTTP和HTTPS" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/网络：10.CSRF和XSS" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/网络：11.幂等" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/网络：12.RESTFul架构(SOAP,RPC)" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/网络：13.SOAP" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/网络：14.RPC" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/CGI和WSGI" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/16.网络：中间人攻击" />
+        <option value="$PROJECT_DIR$/2019年6月8日/网络/网络：17.C10问题" />
       </list>
     </option>
   </component>
@@ -128,6 +164,9 @@
     <option name="y" value="27" />
     <option name="width" value="795" />
     <option name="height" value="666" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -144,12 +183,13 @@
             <path>
               <item name="python笔试" type="b2602c69:ProjectViewProjectNode" />
               <item name="python笔试" type="462c0819:PsiDirectoryNode" />
-              <item name="2019年6月7日" type="462c0819:PsiDirectoryNode" />
+              <item name="2019年6月8日" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python笔试" type="b2602c69:ProjectViewProjectNode" />
               <item name="python笔试" type="462c0819:PsiDirectoryNode" />
               <item name="2019年6月8日" type="462c0819:PsiDirectoryNode" />
+              <item name="网络" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,12 +358,12 @@
       <workItem from="1559633408253" duration="12086000" />
       <workItem from="1559707043757" duration="17086000" />
       <workItem from="1559892425485" duration="9755000" />
-      <workItem from="1559958246462" duration="13117000" />
+      <workItem from="1559958246462" duration="17196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52044000" />
+    <option name="totallyTimeSpent" value="56123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -382,72 +422,6 @@
     <SUITE FILE_PATH="coverage/python$27_read_readlinereadlines.coverage" NAME="27.read,readline和readlines Coverage Results" MODIFIED="1559897717301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019年6月7日" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2019年6月4日/10.argsandkwargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月4日/9.迭代器和生成器和装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="56" column="19" lean-forward="true" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月4日/11.面向切面编程AOP和装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月5日/12.鸭子类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月5日/13.python中重载.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月5日/14.新式类和经典类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/mysingleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月5日/18.GIL线程全局锁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-          <folding>
-            <element signature="e#464#492#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2019年6月5日/19.协程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2019年6月5日/15.__new__和__init__的区别.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -707,6 +681,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：10.CSRF和XSS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：11.幂等">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：12.RESTFul架构(SOAP,RPC)">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：13.SOAP">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：14.RPC">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：9.HTTP和HTTPS">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：15.CGI和WSGI">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：16.中间人攻击">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019年6月8日/网络/网络：17.C10问题">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="46" selection-start-column="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
