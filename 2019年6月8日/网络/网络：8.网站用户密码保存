@@ -1,0 +1,6 @@
+1.明文保存
+2.明文hash后保存,如md5
+3.MD5+Salt方式,这个salt可以随机
+4.知乎使用了Bcrypy(好像)加密
+
+参看博客"https://blog.csdn.net/shanliangliuxing/article/details/7365920"

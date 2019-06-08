@@ -1,0 +1,10 @@
+你可能对于Python中两个独立存在的-urllib2和-urllib2感到好奇。更有趣的是：它们并不是可以相互代替的。
+那么这两个模块间的区别是什么，并且这两个我们都需要吗？
+
+urllib 和urllib2都是接受URL请求的相关模块，但是提供了不同的功能。两个最显著的不同如下：
+
+urllib2可以接受一个Request类的实例来设置URL请求的headers，urllib仅可以接受URL。
+这意味着，你不可以伪装你的User Agent字符串等。
+
+urllib提供urlencode方法用来GET查询字符串的产生，而urllib2没有。这是为何urllib常和urllib2一起使用的原因。
+
